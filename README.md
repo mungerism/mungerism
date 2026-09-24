@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="right">中文 · <a href="README.en.md">English</a></p>
 
-<!--
-**mungerism/mungerism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Munger
 
-Here are some ideas to get you started:
+**AI 智能体基础设施 · 本地优先软件 · 开发者工具**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我关注 AI 智能体如何使用上下文与记忆，也喜欢构建让个人数据清晰、可控的实用工具。
+
+### 正在做
+
+| 项目 | 简介 |
+| --- | --- |
+| **Hippo** | 跨工具、跨项目的 AI 编码智能体记忆层。 |
+| **Sumproof** | 让每笔记录都有据可查的本地优先个人财务应用。 |
+
+### 关注方向
+
+智能体记忆与上下文工程 · 本地优先应用 · 开发者体验
+
+### 常用技术
+
+`Python` · `TypeScript` · `Java` · `Swift`<br>
+`FastAPI` · `React` · `MCP` · `Docker`
+
+---
+
+<sub>做值得长期使用、也值得信任的工具。</sub>
