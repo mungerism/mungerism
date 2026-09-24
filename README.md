@@ -17,11 +17,6 @@
 
 智能体记忆与上下文工程 · 本地优先应用 · 开发者体验
 
-### 常用技术
-
-`Python` · `TypeScript` · `Java` · `Swift`<br>
-`FastAPI` · `React` · `MCP` · `Docker`
-
 ---
 
 <sub>做值得长期使用、也值得信任的工具。</sub>

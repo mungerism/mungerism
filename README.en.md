@@ -17,11 +17,6 @@ I build practical tools for AI agents and people, with a focus on useful context
 
 Agent memory and context engineering · Local-first applications · Developer experience
 
-### Tools I use
-
-`Python` · `TypeScript` · `Java` · `Swift`<br>
-`FastAPI` · `React` · `MCP` · `Docker`
-
 ---
 
 <sub>Building tools worth keeping and trusting.</sub>
